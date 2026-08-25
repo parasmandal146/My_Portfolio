@@ -21,7 +21,7 @@ const About = () => {
             {/* image + my journey */}
             <div className="px-5 flex flex-col md:flex-row items-center gap-12">
                 {/* Image */}
-                <div className=' md:w-1/2 rounded-2xl overflow-hidden'>
+                <div className=' md:w-[40%] rounded-2xl overflow-hidden'>
                     <motion.img
                         initial={{ opacity: 0, y: 50 }}
                         whileInView={{ opacity: 1, y: 0 }}

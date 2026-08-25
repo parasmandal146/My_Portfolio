@@ -62,7 +62,7 @@ const Contact = () => {
                             </div>
                             <div>
                                 <h3 className='text-lg font-semibold mb-2'>Email</h3>
-                                <p className='text-gray-400'>prashant873yadav@gmail.com</p>
+                                <p className='text-gray-400'>parasmandal099@gmail.com</p>
                             </div>
                         </div>
                         <div className="flex items-start">
@@ -71,20 +71,20 @@ const Contact = () => {
                             </div>
                             <div>
                                 <h3 className='text-lg font-semibold mb-2'>Phone</h3>
-                                <p className='text-gray-400'>+91 9125312553</p>
+                                <p className='text-gray-400'>+91 8271957903</p>
                             </div>
                         </div>
 
                         <div className='pt-4'>
                             <h3 className='text-lg font-semibold mb-4'>Follow Me</h3>
                             <div className='flex space-x-4'>
-                                <a href="https://github.com/Prashantyadav91" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300'>
+                                <a href="https://github.com/parasmandal146" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300'>
                                     <FaGithub/>
                                 </a>
-                                <a href="https://www.linkedin.com/in/prashant-yadav-a524b1243/" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-blue  hover:bg-blue  hover:text-white transition duration-300'>
+                                <a href="https://www.linkedin.com/in/paras-mandal/" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-blue  hover:bg-blue  hover:text-white transition duration-300'>
                                     <FaLinkedin/>
                                 </a>
-                                <a href="https://www.instagram.com/iamprashant.13/" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-pink hover:bg-pink hover:text-white transition duration-300'>
+                                <a href="https://www.instagram.com/paras_m4ndal/" target='_main' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-pink hover:bg-pink hover:text-white transition duration-300'>
                                     <FaInstagram/>
                                 </a>
                             </div>

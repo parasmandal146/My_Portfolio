@@ -16,7 +16,7 @@ const Hero = () => {
         <div className='container mt-5 md:mt-0 mx-auto md:mx-15 px-6 flex flex-col md:flex-row items-center justify-between'>
             {/* left side content */}
             <div className='md:w-1/2 mb-10 md:mb-0'>
-                <h1 className='text-4xl md:text-6xl font-bold mb-4'>Hi, I'm <span className='text-purple'>Prashant Yadav</span></h1>
+                <h1 className='text-4xl md:text-6xl font-bold mb-4'>Hi, I'm <span className='text-purple'>Paras Mandal</span></h1>
                 <h2 className='text-2xl md:text-4xl font-semibold mb-6 typewriter'>Full Stack Developer</h2>
                 <p className='text-lg md:w-[80%] text-gray-300 mb-8'>I create stunning web experiences with modern technologies and innovative design.</p>
                 <div className='flex space-x-4'>

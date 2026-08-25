@@ -7,7 +7,7 @@ import projectImg3 from '../assets/project3.png';
 import projectImg4 from '../assets/project4.png';
 import projectImg5 from '../assets/project5.png';
 import projectImg6 from '../assets/project6.png';
-import resume from '../assets/Prashant_Yadav_Resume.pdf';
+import resume from '../assets/Paras_Resume.pdf';
 
 
 export const assets = {
@@ -55,25 +55,13 @@ export const skills = [
     title: 'Database Management',
     icon: FaDatabase,
     description: 'Designing and optimizing databases for performance and scalability.',
-    tags: ['MongoDB', 'MySQL']
-  },
-  {
-    title: 'Coding Languages',
-    icon: FaCode,
-    description: 'Building logical and performance-oriented solutions with languages',
-    tags: ['C', 'Java', 'Python']
-  },
-  {
-    title: 'Cloud & DevOps',
-    icon: FaCloud,
-    description: 'Deploying and managing applications in cloud environments.',
-    tags: ['AWS', 'EC2', 'S3 Bucket', 'IAM', 'SNS']
+    tags: ['MongoDB']
   },
   {
     title: 'Tools & Technologies',
     icon: FaTools,
     description: 'Essential tools and technologies I use in my development workflow.',
-    tags: ['Git & GitHub', 'Postman', 'Thunder client', 'Canva']
+    tags: ['Git & GitHub', 'Canva']
   }
 ];
 
@@ -81,31 +69,22 @@ export const skills = [
 
 export const projects = [
   {
-    title: "Staffing Company Website",
+    title: "Shopxx Ecommerce",
     description: "A full-featured staffing platform with job listings, candidate management, and employer authentication.",
-    image: projectImg1,
+    image: projectImg2,
     tech: ["React", "Node.js", "MongoDB", "Express"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
-    demo: "https://vercenttechit.com/",
-    code: "#",
+    demo: "#",
+    code: "https://github.com/parasmandal146/Shopxx-App",
   },
   {
-    title: "College Website",
+    title: "Myntra Clone",
     description: "A full-featured college website with academic information, student services, and placement details.",
-    image: projectImg2,
-    tech: ["HTML", "CSS", "JavaScript", "Express.js", "MongoDB"],
+    image: projectImg1 ,
+    tech: ["HTML", "CSS"],
     icons: [FaVuejs, FaFire, FaCloud , FaDatabase],
     demo: "#",
-    code: "#",
-  },
-  {
-    title: "To-Do List Web App",
-    description: "A full-featured to-do list application with task creation, editing, and completion tracking.",
-    image: projectImg3,
-    tech: ["HTML", "CSS", "JavaScript"],
-    icons: [FaReact, FaDatabase],
-    demo: "https://prashantyadav91.github.io/To-Do--List/",
-    code: "https://github.com/Prashantyadav91/To-Do--List",
+    code: "https://myntra-clone-dusky-seven.vercel.app/",
   },
   {
     title: "Text to Speech Web App",
@@ -113,17 +92,8 @@ export const projects = [
     image: projectImg4,
     tech: ["HTML", "CSS", "JavaScript"],
     icons: [FaReact, FaCloud],
-    demo: "https://prashantyadav91.github.io/Text_to_Speech/",
-    code: "https://github.com/Prashantyadav91/Text_to_Speech",
-  },
-  {
-    title: "Music Player Web App",
-    description: "A full-featured music player website with soothing songs, audio playback, and controls.",
-    image: projectImg5,
-    tech: ["HTML", "CSS", "JavaScript"],
-    icons: [FaRobot, FaReact, FaCloud],
-    demo: "https://prashantyadav91.github.io/My_Music_Player/",
-    code: "https://github.com/Prashantyadav91/My_Music_Player",
+    demo: "https://text-to-speech-ten-nu.vercel.app/",
+    code: "https://github.com/parasmandal146/Text_to_Speech",
   },
   {
     title: "Calculator Web App",
@@ -131,8 +101,8 @@ export const projects = [
     image: projectImg6,
     tech: ["HTML", "CSS", "JavaScript"],
     icons: [FaReact, FaNodeJs, FaDatabase ],
-    demo: "https://prashantyadav91.github.io/My_Calculator/",
-    code: "https://github.com/Prashantyadav91/My_Calculator",
+    demo: "https://calculater-app-ivory.vercel.app/",
+    code: "https://github.com/parasmandal146/Calculater-App",
   },
 ];
 
